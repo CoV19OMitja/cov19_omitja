@@ -57,9 +57,9 @@
     <div class="wrapper">
         <div class="navbar container">
             {% if site.ins_logo %}
-                <img id="ins-logo" src="{{ site.ins_logo }}" />
+                <a href="{{ site.baseurl }}">{{ site.title }}><img id="ins-logo" src="{{ site.ins_logo }}" /></a>
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
+            <p id="author-name" class="alignable pull-left">{{ site.title }}</p>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
