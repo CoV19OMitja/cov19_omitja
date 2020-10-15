@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "Articles"
-   link: "/articles/"
+   link: ""
  - name: "About"
-   link: "/flsida/"
+   link: "flsida"
  - name: "Contact"
    link: "contact"
