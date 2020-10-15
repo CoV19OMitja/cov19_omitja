@@ -4,7 +4,9 @@ is_contact: true
 ---
 
 **Laia Bertran**
+
 Knowledge translation coordinator, STI and skin NTD Unit
+
 [lbertran@flsida.org](mailto:lbertran@flsida.org)
 
 ---
