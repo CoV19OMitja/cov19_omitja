@@ -3,7 +3,9 @@ layout: default
 is_contact: true
 ---
 
-## Laia Bertran
+## Contact
+
+**Laia Bertran**
 
 Knowledge translation coordinator, STI and skin NTD Unit
 
@@ -19,7 +21,7 @@ Knowledge translation coordinator, STI and skin NTD Unit
 
 ---
 
-## Social
+**Social**
 
 1. [Facebook](https://es-es.facebook.com/FLSida)
 2. [Twitter](https://twitter.com/flsida)
