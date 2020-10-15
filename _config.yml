@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Repository of articles on Covid-19 by the Fight Aids Foundation STI unit
+url: "https://carlosjoserg.github.io"
+baseurl: "/articles"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,17 +8,17 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://www.flsida.org/"
+footer_text: "Copyright 2020 Fight AIDS and Infectious Diseases Foundation"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
+ - name: "Articles"
+   link: "/articles/"
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/flsida/"
  - name: "Contact"
    link: "contact"
