@@ -9,6 +9,7 @@ Knowledge translation coordinator, STI and skin NTD Unit
 
 [lbertran@flsida.org](mailto:lbertran@flsida.org)
 
+---
 
 **Mailing Address**
 
