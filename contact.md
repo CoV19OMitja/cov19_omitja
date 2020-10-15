@@ -21,6 +21,7 @@ Knowledge translation coordinator, STI and skin NTD Unit
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://es-es.facebook.com/FLSida)
+2. [Twitter](https://twitter.com/flsida)
+3. [Instagram](https://www.instagram.com/flsida/)
+4. [YouTube](https://www.youtube.com/user/lluitacontralasida)
