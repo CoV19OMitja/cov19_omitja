@@ -8,7 +8,7 @@ ins_logo: "./logo_en.png"
 tracking_id: #
 
 footer: yes
-footer_url: "https://www.flsida.org/"
+footer_url: "https://www.flsida.org/en/"
 footer_text: "Copyright 2020 Fight AIDS and Infectious Diseases Foundation"
 
 sass:
