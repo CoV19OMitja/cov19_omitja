@@ -1,6 +1,6 @@
 title: Repository of articles on Covid-19 by the Fight Aids Foundation STI unit
-url: ""
-baseurl: ""
+#url: ""
+#baseurl: ""
 
 markdown: kramdown
 ins_logo: "./logo_en.png"
