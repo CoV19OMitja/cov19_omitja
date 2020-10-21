@@ -16,7 +16,7 @@ Work in progress.
 
 ### C. Transmission
 
-1. Marks, Michael, *et al*. **Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study**, submitted ([ePrint](PAPER3_new-TRANSMISSIÓ_20-05735.pdf
+1. Marks, Michael, *et al*. **Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study**, submitted ([ePrint](transmission282.pdf
 )).
 
 ### D. Risk factors
