@@ -12,7 +12,7 @@ layout: default
 
 ### B. Diagnostics
 
-Work in progress.
+1. Alemany, Andrea, *et al*. **Analytical and Clinical Performance of the Panbio COVID-19 Antigen-Detecting Rapid Diagnostic Test**, submitted ([ePrint](draft_mevrix.pdf).
 
 ### C. Transmission
 
